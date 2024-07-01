@@ -7,9 +7,9 @@ export const navLinks = [
 ];
   
 const services = [
-    { title: "Web Developer", icon: web },
-    { title: "React Native Developer", icon: mobile },
     { title: "Backend Developer", icon: backend },
+    { title: "Mobile Developer", icon: mobile },
+    { title: "DevOps", icon: web },
     { title: "Content Creator",  icon: creator },
 ];
   
